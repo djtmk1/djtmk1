@@ -6,8 +6,10 @@ Welcome to my GitHub! I'm the founder of [BusyBee Development](https://github.co
 ## 🚀 What I'm Working On
 
 - Leading **[BusyBee Development](https://github.com/BusyBee-Development)**, where I create tools to enhance gaming experiences.
+- Freelancer at **[Rollerite](https://discord.gg/rollerite)**, where I work with clients and make plugins as a freelancer. 
 - **[SquizleCrates](https://modrinth.com/plugin/sqizlecrates)**: A fun Minecraft plugin that adds customizable crates for server owners, packed with rewards and surprises! 📦
 - **[InfiniteBuckets](https://modrinth.com/plugin/infinitebuckets)**: A utility plugin for Minecraft servers, making water and lava buckets endlessly reusable. 🪣
+- **[ClearLag V2](https://github.com/BusyBee-Development/Clearlag)**: ClearLag is a powerful and efficient lag reduction plugin for Minecraft servers, now updated to support versions 1.8 through 1.21.5 
 - As well as a few things that is not public info at this time but will soon be. 
 
 ## 🛠️ Skills & Tools
