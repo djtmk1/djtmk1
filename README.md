@@ -42,7 +42,7 @@ Welcome to my GitHub! I'm the founder of [BusyBee Development](https://github.co
 
 ## 🫂 MineCraft Staff Expierance
 
-- FreshSMP as a Jr. Admin 700+ players (2023-2023) and now as a Jr. Mod,
+- FreshSMP as a Jr. Admin 700+ players (2023-2023)
 - AppleMC as a Sr.Mod 700+ Players (2023-2023),
 - Relheim as a Mod 50 Players (2023-2023), 
 - Mineplex as an Admin 900+ Players (2015-2015),
