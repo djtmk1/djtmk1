@@ -1,16 +1,16 @@
 # Hi, I'm Djtmk 👋
 
 Java Developer | Database Enthusiast | IT Certified Pro  
-Welcome to my GitHub! I'm the founder of [BusyBee Development](https://github.com/BusyBee-Development), where I craft plugins and tools with Java. With a degree in IT and certifications in Microsoft, CompTIA A+, and CompTIA Security +. I love building efficient, user-friendly solutions. Currently diving deep into databases and plugin development! Also working on a few projects that I am excited about and the implamentation of AI with staff plugins.
+Welcome to my GitHub! I'm the founder of [BusyBee Development](https://github.com/BusyBee-Development), where I craft plugins and tools with Java. With a degree in IT and certifications in Microsoft, CompTIA A+, and CompTIA Security +. I love building efficient, user-friendly solutions. Currently diving deep into databases and plugin development! Also working on a few projects that I am excited about and the implamentation of AI.
 
 ## 🚀 What I'm Working On
 
 - Leading **[BusyBee Development](https://github.com/BusyBee-Development)**, where I create tools to enhance gaming experiences.
-- Freelancer at **[Rollerite](https://discord.gg/rollerite)**, where I work with clients and make plugins as a freelancer. 
+- Freelancer at **[Rollerite](https://discord.gg/rollerite)**, where I work with clients and make plugins as a freelancer.
+- **[ClearLaggEnhanced](https://github.com/BusyBee-Development/ClearLaggEnhanced)**: ClearLag is a powerful and efficient lag reduction plugin for Minecraft servers, now updated to support versions 1.20 - 1.21.8.
 - **[SquizleCrates](https://modrinth.com/plugin/sqizlecrates)**: A fun Minecraft plugin that adds customizable crates for server owners, packed with rewards and surprises! 📦
 - **[InfiniteBuckets](https://modrinth.com/plugin/infinitebuckets)**: A utility plugin for Minecraft servers, making water and lava buckets endlessly reusable. 🪣
-- **[ClearLaggEnhanced](https://github.com/BusyBee-Development/ClearLaggEnhanced)**: ClearLag is a powerful and efficient lag reduction plugin for Minecraft servers, now updated to support versions 1.8 through 1.21.5 
-- As well as a few things that is not public info at this time but will soon be. 
+- **[BeeAuction](https://modrinth.com/plugin/beeauction)**: A powerful and flexible auction plugin for Minecraft servers. 
 
 ## 🛠️ Skills & Tools
 
@@ -42,6 +42,7 @@ Welcome to my GitHub! I'm the founder of [BusyBee Development](https://github.co
 
 ## 🫂 MineCraft Staff Expierance
 
+- MineTop as a Admin 150 players (2025-current)
 - FreshSMP as a Jr. Admin 700+ players (2023-2023)
 - AppleMC as a Sr.Mod 700+ Players (2023-2023),
 - Relheim as a Mod 50 Players (2023-2023), 
@@ -52,7 +53,8 @@ Welcome to my GitHub! I'm the founder of [BusyBee Development](https://github.co
 ## 📫 Connect with Me
 
 - [Modrinth Plugins](https://modrinth.com/organization/busybee-development)
-- [BusyBee](https://github.com/BusyBee-Development) Development
+- [BusyBee GitHub](https://github.com/BusyBee-Development)
+- [Discord](https://discord.gg/mSG9uPefuP)
 - Got a cool project? Reach out at developmentbusybee@gmail.com or on Discord @ djtmk
 
 ## 🌟 Let’s Build Something Awesome!
