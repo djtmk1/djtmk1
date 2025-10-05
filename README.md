@@ -5,11 +5,11 @@ Welcome to my GitHub! I'm the founder of [BusyBee Development](https://github.co
 
 ## 🚀 What I'm Working On
 
-- Leading **[BusyBee Development](https://github.com/BusyBee-Development)**, where I create tools to enhance gaming experiences.
+- Founder and Owner of **[BusyBee Development](https://github.com/BusyBee-Development)**, where I create tools to enhance gaming experiences.
 - Freelancer at **[Rollerite](https://discord.gg/rollerite)**, where I work with clients and make plugins as a freelancer.
-- **[ClearLaggEnhanced](https://github.com/BusyBee-Development/ClearLaggEnhanced)**: ClearLag is a powerful and efficient lag reduction plugin for Minecraft servers, now updated to support versions 1.20 - 1.21.8.
-- **[SquizleCrates](https://modrinth.com/plugin/sqizlecrates)**: A fun Minecraft plugin that adds customizable crates for server owners, packed with rewards and surprises! 📦
-- **[InfiniteBuckets](https://modrinth.com/plugin/infinitebuckets)**: A utility plugin for Minecraft servers, making water and lava buckets endlessly reusable. 🪣
+- **[ClearLaggEnhanced](https://github.com/BusyBee-Development/ClearLaggEnhanced)**: ClearLag is a powerful and efficient lag reduction plugin for Minecraft servers.
+- **[SquizleCrates](https://modrinth.com/plugin/sqizlecrates)**: A fun Minecraft plugin that adds customizable crates for server owners, packed with rewards and surprises!.
+- **[InfiniteBuckets](https://modrinth.com/plugin/infinitebuckets)**: A utility plugin for Minecraft servers, making water and lava buckets endlessly reusable.
 - **[BeeAuction](https://modrinth.com/plugin/beeauction)**: A powerful and flexible auction plugin for Minecraft servers. 
 
 ## 🛠️ Skills & Tools
