@@ -34,18 +34,12 @@ Welcome to my GitHub! I'm the founder of [BusyBee Development](https://github.co
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=djtmk1&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djtmk1&layout=compact&theme=radical)
 
-## 🏅 Badges
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-FF0000?style=flat)
-
 ## 🫂 MineCraft Staff Expierance
 
-- MineTop as a Admin 150 players (2025-current)
-- FreshSMP as a Jr. Admin 700+ players (2023-2023)
+- SolarityMC as an Owner (2025-current),
+- MineTop as a Sr. Admin 150 players (2025-2025),
+- FreshSMP as a Jr. Admin 700+ players (2023-2023),
 - AppleMC as a Sr.Mod 700+ Players (2023-2023),
-- Relheim as a Mod 50 Players (2023-2023), 
 - Mineplex as an Admin 900+ Players (2015-2015),
 - Minecade as an Admin 500+ Players (2013-2015),
 - LegendaryCraft as a Sr.Mod 200+ Players (2013-2015)
